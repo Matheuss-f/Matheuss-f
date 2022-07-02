@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong> HTML, CSS, JavaScript, React </strong>
+  🦄 Habilidades: <strong> Reactjs, Sass, Css, Bootstrap </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas:  <strong> VsCode,  Figma, Trello, Git e Github.
+  💼 Ferramentas:  <strong> VsCode, Postman, Figma, Git/Github, Bitbucket </strong>
 </p>
 
 <p align="left">
