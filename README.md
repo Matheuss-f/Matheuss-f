@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">   Olá, eu sou Matheus Fernandes, tenho 20 anos e sou desenvolvedor <strong>Front-End</strong> (e estudando backend com node.js).<br>
-Já possuo experiência na áera, atuando como desenvolvedor front end em alguns projetos de uma empresa realizando manutenção em dashboard, apps e sites.<br>
+Já possuo experiência na áera, atuando como desenvolvedor front end em alguns projetos de uma empresa realizando manutenção em dashboards, apps e sites.<br>
 Para web eu utilizo o Reactjs, e para aplicativos mobile utilizo React Native.
 </p>
 
