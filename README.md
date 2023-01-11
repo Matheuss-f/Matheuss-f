@@ -10,7 +10,11 @@ Para web eu utilizo o Reactjs, e para aplicativos mobile utilizo React Native.
 </p>
 
 <p align="left">
-  💼 Ferramentas:  <strong> VsCode, Postman, Figma, Git/Github, Bitbucket, Insomnia, Slack, Xcode, Apple Developer, Android Studio. </strong>
+  💼 Ferramentas:  <strong> Jira, VsCode, Postman, Figma, Git/Github, Bitbucket, Insomnia, Slack, Xcode, Apple Developer, Android Studio. </strong>
+</p>
+
+<p align="left">
+  💼 Metodologia ágeis:  <strong>Scrum, Kanban </strong>
 </p>
 
 <p align="left">
