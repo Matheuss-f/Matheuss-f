@@ -14,7 +14,7 @@ Para web eu utilizo o Reactjs, e para aplicativos mobile utilizo React Native.
 </p>
 
 <p align="left">
-  💼 Metodologia ágeis:  <strong>Scrum, Kanban </strong>
+  💼 Metodologias ágeis:  <strong>Scrum, Kanban </strong>
 </p>
 
 <p align="left">
